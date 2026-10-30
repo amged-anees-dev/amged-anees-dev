@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./صورة%20الملف%20الشخصي.jpg"
+  <img src="./profile.jpg"
        width="180"
        alt="Amjed Anees">
 </p>

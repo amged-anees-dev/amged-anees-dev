@@ -1,19 +1,19 @@
-Hi there, I'm Amjed Anees 👋
+مرحباً، أنا أمجد أنيس 👋
 
-🎓 Information Technology Graduate | Aspiring Software Developer
+🎓 خريج تقنية معلومات | مطور برمجيات
 
-I'm an Information Technology graduate passionate about software development, modern technologies, and building practical digital solutions.
+أنا خريج تقنية معلومات، أمتلك شغفاً بتطوير البرمجيات والتقنيات الحديثة وبناء الحلول الرقمية العملية.
 
-I enjoy exploring new technologies, improving my programming skills, and turning ideas into useful applications. I'm continuously learning and developing my technical skills to grow as a software developer.
+أهتم باستكشاف التقنيات الجديدة، وتطوير مهاراتي البرمجية، وتحويل الأفكار إلى تطبيقات وحلول تقنية مفيدة. وأسعى باستمرار إلى تطوير قدراتي ومواكبة التطور في عالم التكنولوجيا.
 
-🚀 Technical Skills
+🚀 المهارات التقنية
 
-- Programming: C++ (Excellent)
-- Mobile Development: Flutter (Excellent)
-- Web Development: Excellent
-- Databases: Excellent
+- البرمجة: C++ — ممتاز.
+- تطوير تطبيقات الهاتف المحمول: Flutter — ممتاز.
+- تطوير الويب: ممتاز.
+- قواعد البيانات: ممتاز.
 
-🛠️ Technologies & Tools
+🛠️ التقنيات والأدوات
 
 - C++
 - Flutter & Dart
@@ -22,26 +22,30 @@ I enjoy exploring new technologies, improving my programming skills, and turning
 - HTML & CSS
 - SQL
 
-📚 Areas of Interest
+📚 مجالات الاهتمام
 
-- Mobile Application Development
-- Web Development
-- Software Engineering
-- Database Management
-- Artificial Intelligence
+- تطوير تطبيقات الهاتف المحمول.
+- تطوير مواقع وتطبيقات الويب.
+- هندسة البرمجيات.
+- تصميم وإدارة قواعد البيانات.
+- الذكاء الاصطناعي والتقنيات الحديثة.
 
-🎯 Goals
+🎯 الأهداف المهنية
 
-- Build practical and meaningful software projects.
-- Improve my software development skills.
-- Gain professional experience in the technology industry.
-- Explore emerging technologies and artificial intelligence.
-- Contribute to collaborative projects and open-source communities.
+- بناء مشاريع برمجية عملية وذات قيمة.
+- تطوير مهاراتي في هندسة البرمجيات.
+- اكتساب الخبرة العملية في مجال التكنولوجيا.
+- استكشاف التقنيات الحديثة والذكاء الاصطناعي.
+- المشاركة في المشاريع الجماعية ومشاريع المصادر المفتوحة.
 
-📫 Let's Connect
+📫 معلومات التواصل
 
+- البريد الإلكتروني: "amgedanees650@gmail.com" (mailto:amgedanees650@gmail.com)
+- رقم الهاتف / WhatsApp: "+967 776 444 609" (https://wa.me/967776444609)
 - GitHub: "@amged-anees-dev" (https://github.com/amged-anees-dev)
 
 ---
 
-“Always learning, always building, and always improving.” 🚀
+<p align="center">
+  <i>«نتعلم باستمرار، ونبني بشغف، ونحوّل الأفكار إلى واقع.»</i> 🚀
+</p>
